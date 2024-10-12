@@ -44,8 +44,10 @@ jobs:
 
       - name: Output branch'ine push et
         run: |
+          git config --global user.email "ddmbilek@gmail.com"
+          git config --global user.name "Didem Bilek"
+          git remote remove origin
           git remote add origin https://${{ secrets.GITHUB_TOKEN }}@github.com/didembi/profile.git
           git push --force origin output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Otomatik oluşturulan GitHub token
-
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
