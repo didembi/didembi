@@ -45,8 +45,8 @@ jobs:
       - name: Push to output branch
      
         run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+          git config --global user.email "ddmbilek@gmail.com"
+          git config --global user.name "Didem Bilek"
           git remote add origin https://<your-token>@github.com/didembi/profile.git
           git push --force origin output
         env:
