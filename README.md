@@ -28,7 +28,7 @@
     </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -38,12 +38,13 @@
 <br/>
 <hr/>
 
+<h2>⚡My Stats </h2>
+ 
+[![](https://github-readme-stats.vercel.app/api?username=didembi&show_icons=true&theme=dracula)](https://github.com/didembi/github-readme-stats)
+<br/>
+
+<h2> 🎯Language  </h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didembi&show_icons=true&theme=dracula&layout=compact)](https://github.com/didembi/github-readme-stats&layout=compact)
 
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-    [![Didem's GitHub stats](https://github-readme-stats.vercel.app/api?username=didembi)](https://github.com/didembi/github-readme-stats)
-    <img width=390 src="https://github-readme-streak-stats-sdidembi.vercel.app/?user=didembi
