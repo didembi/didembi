@@ -42,12 +42,11 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Output branch'ine push et
-        run: |
-          git config --global user.email "ddmbilek@gmail.com"
-          git config --global user.name "Didem Bilek"
-          git remote remove origin
-          git remote add origin https://${{ secrets.GITHUB_TOKEN }}@github.com/didembi/profile.git
-          git push --force origin output
+      - name: Push new files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
