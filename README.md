@@ -9,13 +9,13 @@
 
 <div align="center">
 
-    🔭 I’m currently a university student <strong>at İzmir Bakırçay University</strong> 
+    🔭 I’m currently a university student **at İzmir Bakırçay University**
     <br/>
-    🌱 I’m currently learning <strong>Kotlin, Computer Architecture, Computer Networks</strong>
+    🌱 I’m currently learning **Kotlin, Computer Architecture, Computer Networks**
     <br/>
     💬 Ask me about anything <a href="https://github.com/didembi/didembi/issues">here</a>
     <br/>
-    ⚡ Fun fact: <strong>A day on Venus is longer than a year on Venus. It takes longer for Venus to rotate once on its axis than to orbit the Sun.</strong>
+    ⚡ Fun fact: **A day on Venus is longer than a year on Venus. It takes longer for Venus to rotate once on its axis than to orbit the Sun.**
     
 </div>
 
