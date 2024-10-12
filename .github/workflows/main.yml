@@ -42,11 +42,10 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Push to output branch
-     
+      - name: Output branch'ine push et
         run: |
-
-          git remote add origin https://<your-token>@github.com/didembi/profile.git
+          git remote add origin https://${{ secrets.GITHUB_TOKEN }}@github.com/didembi/profile.git
           git push --force origin output
         env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Otomatik oluşturulan GitHub token
+
