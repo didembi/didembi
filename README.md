@@ -1,20 +1,92 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=didembi.didembi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=didembi.didembi" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+There!+%F0%9F%91%8B;I'm+Didem+Bilek;Computer+Engineer" /> </h1> <p align="center"><i>Computer Engineer — building things, then making sure they actually work.</i></p> <br/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Didem+Bilek!;&text_color=FFFFFF" />
-</h1>
+```gherkin
+Feature: Didem Bilek — Software & QA Engineer
 
-<h3 align="center">A computer engineering student from Türkiye 🇹🇷</h3>
+  Background:
+    Given a Computer Engineering degree
+    And a habit of asking "but what if this breaks?" before shipping anything
+    And more coffee consumed than commits made, some days
+
+  Scenario Outline: How Didem reacts to <situation>
+    Given <situation>
+    When it happens
+    Then the result is <reaction>
+
+    Examples:
+      | situation                    | reaction                          |
+      | A bug in production          | 🕵️ Investigates before panicking   |
+      | An empty whiteboard          | 🎨 Starts sketching immediately    |
+      | Code that "just works"       | 🤨 Gets suspicious, tests it twice |
+      | A free weekend               | 💻 Builds something for fun anyway |
+
+  Scenario: Someone lands on this profile
+    Given a visitor curious about Didem's work
+    Then they find a real project, real skills, and a working inbox
+    And maybe a bug or two, because nobody's test suite is perfect
+```
+
 <br/>
+<hr/>
 
+<h2 align="center">⚒️ Stack</h2>
+<br/>
 <div align="center">
-
-🔭 I’m currently a university student **at İzmir Bakırçay University**  
-🌱 I’m currently learning **Kotlin, Computer Architecture, Computer Networks**  
-💬 Ask me about anything <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRlRjGBzfdmBdpxFpxPtWPcdJjRtVsPHzKVdSZzgVJkLvtjjJnxgwBwCNrBhtvVXCqkNVHg">[here]</a>  
-⚡ Fun fact: **A day on Venus is longer than a year on Venus. It takes longer for Venus to rotate once on its axis than to orbit the Sun.**
-
+    <img src="https://skillicons.dev/icons?i=py,kotlin,cs,dotnet,react,nextjs,ts,gherkin,postgres,docker,git" />
 </div>
+
+<br/>
+<hr/>
+
+<h2 align="center">✅ Featured Test Case</h2>
+
+```gherkin
+Test Case: Agent-Based Runway Safety System [Graduation Project]
+  Given a deep learning-based FOD (Foreign Object Debris) detection system
+  When the model runs against real runway scenarios
+  Then accuracy = 88%, risk reduced by 15%
+  → Status: PASSED ✅
+```
+
+<br/>
+<hr/>
+
+<h2 align="center">🎲 A Few Real Things About Me</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      🤟<br/><b>I sign, too</b><br/>
+      <sub>Turkish Sign Language (TİD) — because communication shouldn't have just one channel</sub>
+    </td>
+    <td align="center" width="250">
+      🌍<br/><b>IEEE & NGO volunteer</b><br/>
+      <sub>Event organizing and social impact projects on the side</sub>
+    </td>
+    <td align="center" width="250">
+      🪐<br/><b>Random fact I bring up too often</b><br/>
+      <sub>A day on Venus is longer than its year — it rotates slower than it orbits the Sun</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr/>
+
+<h2 align="center">👻 Contribution Graph</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didembi/didembi/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/didembi/didembi/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/didembi/didembi/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+<br/>
+<hr/>
+
+<h2 align="center">📨 Say Hi</h2>
+<p align="center">Bugs, ideas, or just want to talk shop — my inbox is always open</p>
 
 <div align="center">
     <a href="mailto:ddmbilek@gmail.com">
@@ -23,28 +95,4 @@
     <a href="https://www.linkedin.com/in/didem-b-525707228" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    </a>
 </div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools </h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,c" />
-</div>
-
-<br/>
-<hr/>
-
-<h2>⚡My Stats </h2>
- 
-[![](https://github-readme-stats.vercel.app/api?username=didembi&show_icons=true&theme=dracula)](https://github.com/didembi/github-readme-stats)
-<br/>
-
-<h2> 🎯Language  </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didembi&show_icons=true&theme=dracula&layout=compact)](https://github.com/didembi/github-readme-stats&layout=compact)
-
-
