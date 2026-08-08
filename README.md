@@ -1,4 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=didembi.didembi" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+There!+%F0%9F%91%8B;I'm+Didem+Bilek;Computer+Engineer" /> </h1> <p align="center"><i>Computer Engineer — building things, then making sure they actually work.</i></p> <br/>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=didembi.didembi" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+There!+%F0%9F%91%8B;I'm+Didem+Bilek;Computer+Engineer" />
+</h1>
+<p align="center"><i>Computer Engineer — building things, then making sure they actually work.</i></p>
+
+<br/>
 
 ```gherkin
 Feature: Didem Bilek — Software & QA Engineer
@@ -32,7 +39,19 @@ Feature: Didem Bilek — Software & QA Engineer
 <h2 align="center">⚒️ Stack</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,cs,dotnet,react,nextjs,ts,gherkin,postgres,docker,git" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" height="48" />
+  <img src="https://skillicons.dev/icons?i=kotlin" title="Kotlin" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" height="48" />
+  <img src="https://skillicons.dev/icons?i=dotnet" title=".NET" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" title="React" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" height="48" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" height="48" />
+  <img src="https://skillicons.dev/icons?i=gherkin" title="Gherkin / BDD" height="48" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="48" />
 </div>
 
 <br/>
@@ -73,7 +92,7 @@ Test Case: Agent-Based Runway Safety System [Graduation Project]
 <br/>
 <hr/>
 
-<h2 align="center">👻 Contribution Graph</h2>
+<h2 align="center">👻 Contribution Graph, Pacman Edition</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didembi/didembi/output/pacman-contribution-graph-dark.svg">
