@@ -70,13 +70,13 @@ Test Case: Agent-Based Runway Safety System [Graduation Project]
 <br/>
 <hr/>
 
-<h2 align="center">🎲 A Few Real Things About Me</h2>
+<h2 align="center">🎲 A Few Real Things </h2>
 
 <table align="center">
   <tr>
     <td align="center" width="250">
       🤟<br/><b>I sign, too</b><br/>
-      <sub>Turkish Sign Language (TİD) — because communication shouldn't have just one channel</sub>
+      <sub>Turkish Sign Language (TID) — because communication shouldn't have just one channel</sub>
     </td>
     <td align="center" width="250">
       🌍<br/><b>IEEE & NGO volunteer</b><br/>
