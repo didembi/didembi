@@ -92,7 +92,7 @@ Test Case: Agent-Based Runway Safety System [Graduation Project]
 <br/>
 <hr/>
 
-<h2 align="center">👻 Contribution Graph, Pacman Edition</h2>
+<h2 align="center">👻 Contribution Graph</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/didembi/didembi/output/pacman-contribution-graph-dark.svg">
